@@ -1,0 +1,18 @@
+.body_background {
+    background-image: url("71W20DcfQiL._AC_SL1200_\ \(1\).jpg");
+    background-size: cover;
+}
+
+.login_div1,
+.login_div2 {
+    background: white;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+
+#player_1,
+#player_2 {
+    display: inline-block;
+    margin-left: 20px;
+}
